@@ -14,4 +14,8 @@ public class Main {
     public static void getName() {
         System.out.println("Sandaru");
     }
+
+    public static void getAge() {
+        System.out.println("23");
+    }
 }
