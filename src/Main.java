@@ -10,4 +10,8 @@ public class Main {
     public static int calculator(int age) {
         return 25;
     }
+
+    public static void getName() {
+        System.out.println("Sandaru");
+    }
 }
